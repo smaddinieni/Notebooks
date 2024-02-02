@@ -3,3 +3,6 @@ langchain
 langchain-openai
 openai
 python-dotenv
+langsmith
+requests
+pillow
